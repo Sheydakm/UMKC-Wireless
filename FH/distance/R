@@ -1,0 +1,11 @@
+data = read.table("/home/sheyda/Downloads/Campus-NT/Campus/1/Accesspoint_IP/it.csv", header=TRUE, sep=",")
+head(data)
+plot ( Out_small ~ db, data=data)
+data.mod=lm(Out_small ~ db, data=data)
+abline(data.mod, col="red")
+
+data = read.table("/home/sheyda/Downloads/Campus-data/distance/it.csv", header=TRUE, sep=",")
+head(data)
+plot ( Out_small ~ distance, data=math.data)
+data.mod=lm(Out_small ~ distance, data=data)
+abline(data.mod, col="red")

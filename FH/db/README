@@ -1,0 +1,13 @@
+#convert Campus*.xlsx to data.csv
+ssconvert Campus*.xlsx data.csv
+#Run
+python ave.py
+#result in file last.csv includes spot name with outside small average throughput, inside small average throughput, inside large #average throughput
+#then need to get minimum db among group of same spot in result3 which is coppied from add-ap-ip directory
+#run
+python dbmin.py
+#result is in mindb.csv that includes APname, spot and min db
+#then need to merge file last.csv and mindb.csv to have all APname,spot, ave throughput and mindb together to make plots
+#Run
+python mix.py
+#result in it.csv

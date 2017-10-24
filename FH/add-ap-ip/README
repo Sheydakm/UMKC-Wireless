@@ -1,0 +1,4 @@
+#I coppied result2.csv from FHname
+#run
+bash main.sh
+# result3.csv is the file with ap name and ip added 

@@ -1,0 +1,1314 @@
+
+                                       
+                                       
+                                       
+                                   Flarsheim
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+00:25:84:85:8D:A- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+00:25:84:85:8D:A0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+
+
+00:FE:C8:BD:91:B- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+00:FE:C8:BD:91:B0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+
+
+08:CC:68:62:9E:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+08:CC:68:62:9E:F0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+08:CC:68:62:9E:F7 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                    n, ac 
+08:CC:68:62:9E:FF 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+1C:AA:07:16:20:B- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+1C:AA:07:16:20:B0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+1C:AA:07:16:20:BF 
+UMKCWPA 
+                                      52 
+                                     5260 
+                                     a, n 
+
+
+2C:36:F8:B6:03:8- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+2C:36:F8:B6:03:80 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+2C:36:F8:B6:03:8F 
+UMKCWPA 
+                                     153 
+                                     5765 
+                                     a, n 
+
+
+2C:36:F8:B6:14:0- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+2C:36:F8:B6:14:00 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+2C:36:F8:B6:14:0F 
+UMKCWPA 
+                                      48 
+                                     5240 
+                                     a, n 
+
+
+2C:36:F8:B8:29:B- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+2C:36:F8:B8:29:B0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+2C:36:F8:B8:29:BF 
+UMKCWPA 
+                                     132 
+                                     5660 
+                                     a, n 
+
+
+2C:36:F8:B8:DC:9- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+2C:36:F8:B8:DC:90 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+2C:36:F8:B8:DC:9F 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                     a, n 
+
+
+2C:36:F8:B9:0B:6- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+2C:36:F8:B9:0B:60 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+2C:36:F8:B9:0B:6F 
+UMKCWPA 
+                                      52 
+                                     5260 
+                                     a, n 
+
+
+44:E4:D9:BD:90:8- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+44:E4:D9:BD:90:80 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+44:E4:D9:BD:90:8F 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                     a, n 
+
+
+50:06:04:6E:65:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:6E:65:70 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+50:06:04:6E:65:77 
+UMKCWPA 
+                                      40 
+                                     5200 
+                                    n, ac 
+50:06:04:6E:65:7F 
+UMKCWPA 
+                                      40 
+                                     5200 
+                                     a, n 
+
+
+50:06:04:6E:68:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:6E:68:70 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+50:06:04:6E:68:77 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                    n, ac 
+50:06:04:6E:68:7F 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                     a, n 
+
+
+C4:0A:CB:DE:BB:2- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+C4:0A:CB:DE:BB:20 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+C4:0A:CB:DE:BB:2F 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                     a, n 
+
+
+C4:0A:CB:EA:97:E- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+C4:0A:CB:EA:97:E0 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+C4:0A:CB:EA:97:EF 
+UMKCWPA 
+                                     112 
+                                     5560 
+                                     a, n 
+
+
+E8:40:40:CC:A2:3- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:CC:A2:30 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+E8:40:40:CC:A2:3F 
+UMKCWPA 
+                                     132 
+                                     5660 
+                                     a, n 
+
+
+E8:40:40:DF:57:B- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:57:B0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+E8:40:40:DF:57:BF 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                     a, n 
+
+
+E8:40:40:DF:61:A- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:61:A0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+E8:40:40:DF:61:AF 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                     a, n 
+
+
+E8:40:40:DF:6B:0- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:6B:00 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+E8:40:40:DF:6B:0F 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                     a, n 
+
+
+E8:40:40:DF:70:1- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:70:10 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+E8:40:40:DF:70:1F 
+UMKCWPA 
+                                     132 
+                                     5660 
+                                     a, n 
+
+
+E8:40:40:DF:73:1- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:73:10 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+E8:40:40:DF:73:1F 
+UMKCWPA 
+                                      52 
+                                     5260 
+                                     a, n 
+
+
+F0:29:29:2B:FC:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F0:29:29:2B:FC:70 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+F0:29:29:2B:FC:77 
+UMKCWPA 
+                                     112 
+                                     5560 
+                                    n, ac 
+F0:29:29:2B:FC:7F 
+UMKCWPA 
+                                     112 
+                                     5560 
+                                     a, n 
+
+
+F4:0F:1B:0E:F4:9- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:0E:F4:90 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+F4:0F:1B:0E:F4:9F 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                    n, ac 
+
+
+F4:0F:1B:27:AD:4- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:27:AD:40 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:0F:1B:27:AD:4F 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                    n, ac 
+
+
+F4:0F:1B:29:36:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:29:36:F0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:0F:1B:29:36:FF 
+UMKCWPA 
+                                      52 
+                                     5260 
+                                    n, ac 
+
+
+F4:0F:1B:29:38:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:29:38:70 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:0F:1B:29:38:7F 
+UMKCWPA 
+                                     108 
+                                     5540 
+                                    n, ac 
+
+
+F4:0F:1B:52:DE:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:52:DE:F0 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+F4:0F:1B:52:DE:FF 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                    n, ac 
+
+
+F4:0F:1B:57:FD:4- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:57:FD:40 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:0F:1B:57:FD:4F 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                    n, ac 
+
+
+F4:0F:1B:58:00:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:58:00:70 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:0F:1B:58:00:7F 
+UMKCWPA 
+                                      40 
+                                     5200 
+                                    n, ac 
+
+
+F4:1F:C2:98:B3:B- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:1F:C2:98:B3:B0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+F4:1F:C2:98:B3:B7 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                    n, ac 
+F4:1F:C2:98:B3:BF 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                     a, n 
+
+
+F4:1F:C2:98:C2:1- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:1F:C2:98:C2:10 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+F4:1F:C2:98:C2:17 
+UMKCWPA 
+                                      48 
+                                     5240 
+                                    n, ac 
+F4:1F:C2:98:C2:1F 
+UMKCWPA 
+                                      48 
+                                     5240 
+                                     a, n 
+
+
+F4:1F:C2:FA:25:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:1F:C2:FA:25:C0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:1F:C2:FA:25:C7 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                    n, ac 
+F4:1F:C2:FA:25:CF 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                     a, n 
+
+
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                     Haag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00:FE:C8:2E:98:3- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+00:FE:C8:2E:98:30 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+00:FE:C8:2E:98:3F 
+UMKCWPA 
+                                     149 
+                                     5745 
+                                    n, ac 
+
+
+00:FE:C8:BE:B4:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+00:FE:C8:BE:B4:C0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+00:FE:C8:BE:B4:CF 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                    n, ac 
+
+
+20:BB:C0:2C:73:E- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:2C:73:E0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+20:BB:C0:2C:73:EF 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+20:BB:C0:67:05:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:67:05:C0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+
+
+20:BB:C0:E7:0F:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:E7:0F:F0 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+20:BB:C0:E7:0F:FF 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+50:06:04:6E:68:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:6E:68:70 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+
+
+50:06:04:6E:78:D- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:6E:78:D0 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+50:06:04:6E:78:DF 
+UMKCWPA 
+                                     132 
+                                     5660 
+                                     a, n 
+
+
+50:06:04:BA:08:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:BA:08:CF 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                     a, n 
+
+
+50:06:04:C2:FE:2- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:C2:FE:20 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+50:06:04:C2:FE:2F 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+70:10:5C:83:3C:5- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+70:10:5C:83:3C:50 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+
+
+B4:E9:B0:B5:C7:6- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+B4:E9:B0:B5:C7:60 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+
+
+E8:40:40:DF:77:1- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:77:10 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+E8:40:40:DF:77:1F 
+UMKCWPA 
+                                      40 
+                                     5200 
+                                     a, n 
+
+
+F4:0F:1B:29:36:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:29:36:FF 
+UMKCWPA 
+                                      52 
+                                     5260 
+                                    n, ac 
+
+
+F4:0F:1B:29:38:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:29:38:70 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+
+
+F4:0F:1B:57:FD:4- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:57:FD:4F 
+UMKCWPA 
+                                     161 
+                                     5805 
+                                    n, ac 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Royall
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+00:FE:C8:2E:98:3- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+00:FE:C8:2E:98:30 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+00:FE:C8:2E:98:3F 
+UMKCWPA 
+                                     149 
+                                     5745 
+                                    n, ac 
+
+
+00:FE:C8:BE:B4:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+00:FE:C8:BE:B4:C0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+00:FE:C8:BE:B4:CF 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                    n, ac 
+
+
+08:CC:68:62:9E:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+08:CC:68:62:9E:F0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+
+
+20:BB:C0:2C:73:E- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:2C:73:E0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+20:BB:C0:2C:73:EF 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+20:BB:C0:67:05:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:67:05:C0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+20:BB:C0:67:05:CF 
+UMKCWPA 
+                                     132 
+                                     5660 
+                                     a, n 
+
+
+20:BB:C0:67:44:4- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:67:44:40 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+20:BB:C0:67:44:4F 
+UMKCWPA 
+                                      48 
+                                     5240 
+                                     a, n 
+
+
+20:BB:C0:67:46:E- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+20:BB:C0:67:46:E0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+20:BB:C0:67:46:EF 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+2C:36:F8:B8:29:B- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+2C:36:F8:B8:29:BF 
+UMKCWPA 
+                                      44 
+                                     5220 
+                                     a, n 
+
+
+44:E4:D9:BD:90:8- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+44:E4:D9:BD:90:80 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+
+
+50:06:04:6E:68:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:6E:68:70 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+
+
+50:06:04:6E:78:D- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:6E:78:D0 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+50:06:04:6E:78:DF 
+UMKCWPA 
+                                     132 
+                                     5660 
+                                     a, n 
+
+
+50:06:04:BA:08:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:BA:08:C0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+50:06:04:BA:08:CF 
+UMKCWPA 
+                                      64 
+                                     5320 
+                                     a, n 
+
+
+50:06:04:BA:17:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:BA:17:FF 
+UMKCWPA 
+                                      40 
+                                     5200 
+                                     a, n 
+
+
+50:06:04:BA:21:2- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:BA:21:20 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+50:06:04:BA:21:2F 
+UMKCWPA 
+                                      44 
+                                     5220 
+                                     a, n 
+
+
+50:06:04:C2:B5:3- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:C2:B5:30 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+
+
+50:06:04:C2:FE:2- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+50:06:04:C2:FE:20 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+
+
+70:10:5C:83:3C:5- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+70:10:5C:83:3C:50 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+70:10:5C:83:3C:5F 
+UMKCWPA 
+                                      36 
+                                     5180 
+                                     a, n 
+
+
+E8:40:40:DF:77:1- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+E8:40:40:DF:77:10 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+
+
+F4:0F:1B:10:A7:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:10:A7:70 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+F4:0F:1B:10:A7:7F 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                    n, ac 
+
+
+F4:0F:1B:27:AD:4- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:27:AD:40 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+
+
+F4:0F:1B:29:36:F- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:29:36:F0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+F4:0F:1B:29:36:FF 
+UMKCWPA 
+                                      52 
+                                     5260 
+                                    n, ac 
+
+
+F4:0F:1B:29:38:7- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:29:38:70 
+UMKCWPA 
+                                      11 
+                                     2462 
+                                     g, n 
+
+
+F4:0F:1B:47:43:D- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:0F:1B:47:43:D0 
+UMKCWPA 
+                                      6 
+                                     2437 
+                                     g, n 
+F4:0F:1B:47:43:DF 
+UMKCWPA 
+                                     100 
+                                     5500 
+                                    n, ac 
+
+
+F4:1F:C2:FA:25:C- / Cisco Systems. Inc
+                                    BSSID 
+                                     SSID 
+                                     Chan 
+                                     Freq 
+                                    802.11 
+F4:1F:C2:FA:25:C0 
+UMKCWPA 
+                                      1 
+                                     2412 
+                                     g, n 
+
+
+                                       
+                                       

@@ -1,0 +1,13 @@
+ ********************
+sudo apt install docx2txt
+docx2txt Condensed\ Acrylic\ AP\ -\ non\ Ideal.docx 
+bash parse.sh
+#macs.log has all macs from Condensed*.txt and macsACC.log includs all subnet of the #macs
+#APmac.log has valid macs form (Daniel's file) AP\ IP*.csv and APmac.log includs all #macs in uppercase
+#Run:
+python validgroup.py
+# give all the subnets from macsACC.log that are valid and nonvalid in files #Valid.log and nonValid.log
+python validMacs.py
+#get all the mac addresses in macs.log and the valid subset in the Valid.log
+#if the subset of a mac address in macs.log is equa to the valid address that mac is valid
+#all the valid and nonvalid macs are in the folder result

@@ -1,0 +1,8 @@
+#Run
+bash addnv.sh
+#will add 2 empty column to result3.csv for latitude and longtitude of the related access point
+#fh.csv is new file that has latitude and longtitude of the APs
+#Run
+python match.py
+#all the latitude and longtitude with APnames are in latlong.csv (the numbering manually was done by using pdf file)
+# according to AP names latlong.csv and result3.csv are merged in extra.csv

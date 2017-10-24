@@ -1,0 +1,5 @@
+The original file is Flarshim.csv
+finalvalid.log is copied from valid-nonvalid-macs/result directory
+***Please run
+bash main.sh
+the result will be in the result.csv file

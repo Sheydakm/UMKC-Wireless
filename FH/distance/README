@@ -1,0 +1,15 @@
+#copy extra.csv from lat-long directory
+#Run
+bash addnv.sh
+#got extra column for distance between 2 lat and long
+#run
+python convert1.py
+#result of distance is in distance.csv
+#Run
+python smallest.py
+# to get the closest distance AP,spot and distance
+#copy last.csv from db directory
+#run
+python mix.py
+#merge the distance and throughput data from min.csv and last.csv
+#reult in it.csv

@@ -1,0 +1,4 @@
+I copied finlvalid.log from valid-nonvalid-buldings-Macs directory and result.csv from valid-nonvalid-buldings/FH directory o this directory
+For the first run I uncomment the second line in the main.sh
+run the main.sh
+the result is result2.csv
